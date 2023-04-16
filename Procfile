@@ -1,0 +1,1 @@
+web: gunicorn ci-codestar-django-blog.wsgi
